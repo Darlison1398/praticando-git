@@ -11,6 +11,10 @@ h1 {
     text-align: center;
 }
 
+.tag-h2 {
+    color: #9a3dcf;
+}
+
 div {
     background-color: #fff;
     padding: 15px;
